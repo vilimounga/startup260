@@ -26,7 +26,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 ### Elevator pitch
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Have you felt hungry for a snack but didn't know what to make or can't afford to eat a full course meal? Are you a poor or busy college student needing to fuel up quick? The SnackStacks application can provide snack receipes based off what you have in your kitchen or what your budget looks likes. As a user inputs ingredients(s) or a price limit - snacks are autmomatically tailored to your preference. Happy Snacking!
 
 ### Design
 
