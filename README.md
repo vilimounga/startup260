@@ -50,12 +50,15 @@ Have you felt hungry for a snack but didn't know what to make or can't afford to
 
 I am going to use the required technologies in the following ways.
 
-- **HTML** - Description here
-- **CSS** - Description here
-- **React** - Description here
-- **Service** - Description here
-- **DB/Login** - Description here
-- **WebSocket** - Description here
+- **HTML** - Uses HTML as structure for application. Five HTML pages. One for login/categories, one for recipe lists, one for recipe, one for saved recipes, one for about page.  
+- **CSS** - CSS used for styling on different pages and screen sizes. Using colors and contrast to attract hungry users.
+- **React** - Provides login, recipe displays, applying likes/comments, and React used for reacting routing and components.
+- **Service** - Backend service with endpoints for:
+    - login and logout support
+    - Call out to third party for food pictures
+    - Retrieving recipe lists based off user categories/searches
+- **DB/Login** - Store users, favorite recipes, and comments in database. Register and login users. Credientials secured.
+- **WebSocket** - As users like/comment on recipes, their updates are broadcasted to all users.
 
 ## 🚀 AWS deliverable
 
