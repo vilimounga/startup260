@@ -30,7 +30,11 @@ Have you felt hungry for a snack but didn't know what to make or can't afford to
 
 ### Design
 
-![Design image](placeholder.png)
+![Main Page Mockup](pictures/mainpage.JPG)
+![Categories Mockup](pictures/categories.JPG)
+![Food ListMockup](pictures/foodlist.jpg)
+![Receipe Mockup](pictures/receipepage.jpg)
+![About Mockup](pictures/aboutpic.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
