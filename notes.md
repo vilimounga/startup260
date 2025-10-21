@@ -11,6 +11,7 @@
 ## AWS
 
 My IP address is: 100.24.239.50
+
 Launching my AMI I initially put it on a private subnet. I created a server and created a domain for my IP Address. I made an elastic IP Address so that I don't have to get a new IP address if I turn off my server.
 
 ## Caddy
