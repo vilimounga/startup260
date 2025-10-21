@@ -10,12 +10,12 @@
 
 ## AWS
 
-My IP address is: 54.81.96.130
-Launching my AMI I initially put it on a private subnet. Even though it had a public IP address and the security group was right, I wasn't able to connect to it.
+My IP address is: 100.24.239.50
+Launching my AMI I initially put it on a private subnet. I created a server and created a domain for my IP Address. I made an elastic IP Address so that I don't have to get a new IP address if I turn off my server.
 
 ## Caddy
 
-No problems worked just like it said in the [instruction](https://github.com/webprogramming260/.github/blob/main/profile/webServers/https/https.md).
+I learned that Caddy helps to serve websites by being a place for me to add my static webpages and it handles HTTP requests, and deliving my site to browsers. I can refer to [instruction](https://github.com/webprogramming260/.github/blob/main/profile/webServers/https/https.md).
 
 ## HTML
 
