@@ -16,7 +16,9 @@ Launching my AMI I initially put it on a private subnet. I created a server and 
 
 ## Caddy
 
-I learned that Caddy helps to serve websites by being a place for me to add my static webpages and it handles HTTP requests, and deliving my site to browsers. I can refer to [instruction](https://github.com/webprogramming260/.github/blob/main/profile/webServers/https/https.md).
+I learned that Caddy helps to serve websites by being a place for me to add my static webpages and it handles HTTP requests, and deliving my site to browsers. 
+
+I can refer to [instruction](https://github.com/webprogramming260/.github/blob/main/profile/webServers/https/https.md).
 
 ## HTML
 
